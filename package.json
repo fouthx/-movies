@@ -1,0 +1,14 @@
+{
+    "name": "douban_movies",
+    "version": "0.1.0",
+    "description": "douban_movies",
+    "main": "server/index.js",
+    "scripts": {
+        "dev": "nodemon server/index.js"
+    },
+    "author": "zeco.zeng",
+    "license": "ISC",
+    "dependencies": {
+        "koa": "^2.7.0"
+    }
+}
